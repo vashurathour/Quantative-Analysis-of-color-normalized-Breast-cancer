@@ -17,6 +17,7 @@
 
 1.Install dependencies:
               pip install -r requirements.txt
+
 2.Normalize your images:
 
 python src/normalize.py --input data/raw/ --output data/normalized/
